@@ -3,4 +3,4 @@ __pycache__/
 .ipynb_checkpoints/
 
 # datasets
-data/nltk_data/*
+/data/
